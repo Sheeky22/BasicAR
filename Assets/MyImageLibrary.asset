@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MyImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4730550504146225183
+  m_GuidHigh: 4905386569621514651
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5746514107550280538
+      m_GuidHigh: 18390256495343598267
+    m_SerializedTextureGuid:
+      m_GuidLow: 339316788465647799
+      m_GuidHigh: 5088185822282426616
+    m_Size: {x: 0.1, y: 0.083246075}
+    m_SpecifySize: 1
+    m_Name: "Screenshot 2026-06-01 at 12.44.24\u202FPM"
+    m_Texture: {fileID: 2800000, guid: 42d240b77ed204b5f8a852080cde9c46, type: 3}
